@@ -1,0 +1,96 @@
+head{
+	display: block;
+	border: 60px solid blue;
+
+}
+
+body{
+	background-color: lightgray;
+}
+
+h1{
+	color: white;
+	top: -115px;
+	position: relative;
+	font-size:49px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Patua One', cursive;
+
+}
+
+div{
+	padding-left: 60px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Patua One', cursive;
+}
+
+#demo{
+	color: black;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Patua One', cursive;
+}
+
+.logo{
+	border-radius: 12px;
+	top: 20px;
+	position: relative;
+	margin-left:5px;
+	padding-bottom: 20px;
+
+	
+}
+
+.button1{
+	font-size: 14px;
+	padding: 4px;
+	color: white;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Patua One', cursive;
+	background-color: blue;
+
+}
+
+.text1{
+	font-size: 14px;
+	padding: 4px;
+	color: black;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Patua One', cursive;
+}
+
+.main-div{
+	display: inline-block;
+	text-align: center;
+	float: middle;
+	object-fit: scale-down;
+	background-color: #eee;
+	background-position: middle;
+	flex: 1;
+	border: 2px solid blue;
+
+}
+#div1{
+	padding: 20px;
+	padding-bottom: 38px;
+	border-radius: 20px;
+	padding-right: 20px;
+	margin-right: 20px;
+}
+
+
+#div2{
+	padding: 20px;
+	padding-bottom: 38px;
+	border-radius: 20px;
+
+
+}
+
+.firstdiv{
+	
+	display: ;
+	margin-right: 20px;
+	align-content: space-between;
+	flex-shrink: 2;
+	
+}
